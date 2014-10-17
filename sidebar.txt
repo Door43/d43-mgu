@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mgu:home|Door43 (mgu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mgu|d43-mgu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mgu/archive/master.zip|d43-mgu.zip]]
+
+**Recent Changes**
+{{changes>ns = mgu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mgu|Ethnologue data]]
+
